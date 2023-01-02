@@ -6,6 +6,7 @@ final class WordSearchScannerTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(WordSearchScanner().text, "Hello, World!")
+        XCTAssertEqual(WordSearchScanner().text, "Hello, Tester!")
+        
     }
 }
